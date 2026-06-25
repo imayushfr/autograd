@@ -6,14 +6,14 @@ A tiny scalar-valued automatic gradient engine that implements backpropagation f
 
 ## Libraries Used
 
-- numpy
-- matplotlib
-- graphviz
-- pytorch
+- Numpy
+- Matplotlib
+- Graphviz
+- Pytorch
 
 ## Approach
 
-Created a class named `Value` for scalers that keeps track of its children, operations, and gradients for backpropagation.
+Created a class named `Value` for scalars that keeps track of its children, operations, and gradients for backpropagation.
 
 Gradients calculated by the engine are verified manually using the definition of derivative, and using `Pytorch`.
 
