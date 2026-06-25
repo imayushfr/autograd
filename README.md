@@ -1,6 +1,8 @@
 # Autograd
 
-A tiny scalar-valued automatic gradient engine that implements backpropagation from scratch on a neural network / MLP. Potentially for learning purpose.
+A tiny scalar-valued automatic gradient engine that implements backpropagation from scratch on a neural network / MLP. Potentially for learning purposes.
+
+[Google Colab](https://colab.research.google.com/drive/1OIUyZ510KcllyK-8nI_jv_qtWUqixuDX?usp=sharing)
 
 ## Libraries Used
 
